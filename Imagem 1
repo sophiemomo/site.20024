@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Imagem 1</h1>
+    
+    <p>Imagem 1</p>
+    <!--
+    <img src="NEWTON1.jpg" alt="logo do newton">
+    -->
+    
+    <ol start="2">
+        <li>Luffy</li>
+        <ol>
+            <li>Luffy é o personagem principal do anime One Piece, com mais de mil episódios, ele mostra a jornada de Luffy que quer virar o Rei dos Pirastas. Ele vai seguindo o seu sonho junto com os seus companheiros, onde cada um tem o seu próprio objetivo também.</li>
+
+        </ol>
+    </ol>
+
+    
+</body>
+</html>
