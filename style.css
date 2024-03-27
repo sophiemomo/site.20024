@@ -5,7 +5,7 @@ body
   background-image: linear-gradient(90deg, blue, purple);
     color: white;
     font-size: 12pt;
-    font-family:The Monday;
+    font-family:Lexend;
     text-align: center;
     text-decoration: none;
 }
@@ -14,14 +14,14 @@ h1
   {
     color:white;
     fontsize:30pt;
-    font-family:Lemon Milk;
+    font-family:Impact;
   }
 
 h2
 {
   color:white;
   fontsize:20pt;
-  font-family:Narnia;
+  font-family:Oswald;
 }
 
 a
