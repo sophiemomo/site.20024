@@ -12,20 +12,21 @@ body
 
 h1
   {
-    color:blue;
+    color:black;
     fontsize:30pt;
     font-family:Impact;
   }
 
 h2
 {
-  color:pink;
-  fontsize:20pt;
+  color:black;
+  fontsize:30pt;
   font-family:Oswald;
 }
 
 a
 {
-  color:yellow;
+  color:blue;
   fontsize:15pt;
+  remove:overwritten line in the links
 }
