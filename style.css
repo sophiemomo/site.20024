@@ -31,13 +31,15 @@ a
   text-decoration: none;
 }
 
-.impar {
+.impar 
+{
   font-size:16pt;
   font-family:Arial;
   color:red
 }
 
-.par {
+.par 
+{
   font-size:20pt;
   font-family:Veradana;
   color:blue;
